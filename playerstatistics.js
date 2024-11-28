@@ -1,0 +1,23 @@
+let name = "Jaafar";
+let jumpforce = 25;
+let specialPower = "flight";
+let speed = 400;
+let bike = "Yamaha R1";
+let livesLeft = 5;
+let ammo = 200;
+let numberOfLasers = 10;
+let batteryPower = 99;
+let level = 10000;
+let wanted = false;
+
+console.log("name: " + name);
+console.log("jumpforce: " + jumpforce);
+console.log("special power: " + specialPower);
+console.log("speed: " + speed);
+console.log("bike: " + bike);
+console.log("lives left: " + livesLeft);
+console.log("ammo: " + ammo);
+console.log("number of lasers: " + numberOfLasers);
+console.log("battery power: " + batteryPower);
+console.log("level: " + level);
+console.log("wanted: " + wanted);
